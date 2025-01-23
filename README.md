@@ -53,4 +53,4 @@ Step 4: Set Up CloudFront Distribution
 By following these steps, you can host a static website using AWS S3 and CloudFront.
 
 # Author
-## Okunola BabatundeOk 
+## Okunola Babatunde
