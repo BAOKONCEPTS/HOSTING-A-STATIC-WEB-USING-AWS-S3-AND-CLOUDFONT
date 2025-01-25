@@ -26,7 +26,7 @@ The project aims at hosting a static website using AWS S3 and CloudFont.The foll
 - Use the AWS CLI or S3 console to upload your website files
 - Organize files into folders (e.g., images, CSS, JS)
 
-Step 4: Set Up CloudFront Distribution
+## Step 4: Set Up CloudFront Distribution
 
 - Navigate to the CloudFront dashboard
 - Click "Create distribution" and choose "Web" delivery method
