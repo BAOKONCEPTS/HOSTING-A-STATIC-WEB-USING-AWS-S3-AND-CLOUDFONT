@@ -7,11 +7,13 @@ The project aims at hosting a static website using AWS S3 and CloudFont.The foll
 - AWS account with administrative privileges
 - Basic knowledge of AWS services (S3, CloudFront, IAM)
 - Familiarity with command-line interfaces (CLI)
+br<img width="1280" alt="bucket polict set and configured - Copy" src="https://github.com/user-attachments/assets/35b46d76-57d6-46a9-bc2d-ca78352728fd" />
 
 ## Step 1: Create an S3 Bucket
 
 - Log in to the AWS Management Console
 - Navigate to the S3 dashboard
+- 
 - Click "Create bucket" and enter a unique name
 - Choose a region and click "Create bucket"
 
